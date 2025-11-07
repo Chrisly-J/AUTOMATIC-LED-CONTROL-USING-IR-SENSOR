@@ -41,7 +41,7 @@ An **IR sensor** detects the presence of an object by emitting and receiving inf
 
 4. Name the project.
 
-   <img width="450" height="450" alt="Screenshot (61)" src="https://github.com/user-attachments/assets/b9706fa1-a47f-469b-9227-3412a6a58597" />
+<img width="450" height="450" alt="Screenshot (61)" src="https://github.com/user-attachments/assets/b9706fa1-a47f-469b-9227-3412a6a58597" />
 
 5. The corresponding `.ioc` file will be generated automatically.
   <img width="450" height="450" alt="Screenshot (62)" src="https://github.com/user-attachments/assets/b19331ea-463a-424b-b2b2-e992064d9f2f" />
@@ -60,7 +60,7 @@ An **IR sensor** detects the presence of an object by emitting and receiving inf
 
 9. Click **Project → Build All**.
 
-    <img width="450" height="450" alt="Screenshot (66)" src="https://github.com/user-attachments/assets/bf7a4d31-33dd-4dad-b890-57ea48368016" />
+<img width="450" height="450" alt="Screenshot (66)" src="https://github.com/user-attachments/assets/bf7a4d31-33dd-4dad-b890-57ea48368016" />
 
 11. Link the **HEX file** using the post-build process.
    <img width="450" height="450" alt="Screenshot (67)" src="https://github.com/user-attachments/assets/cfdf0c5a-400d-4b13-852f-0e410825b571" />
