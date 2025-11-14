@@ -44,31 +44,31 @@ An **IR sensor** detects the presence of an object by emitting and receiving inf
 <img width="450" height="450" alt="Screenshot (61)" src="https://github.com/user-attachments/assets/b9706fa1-a47f-469b-9227-3412a6a58597" />
 
 5. The corresponding `.ioc` file will be generated automatically.
-  <img width="450" height="450" alt="Screenshot (62)" src="https://github.com/user-attachments/assets/b19331ea-463a-424b-b2b2-e992064d9f2f" />
+
+   <img width="450" height="450" alt="Screenshot 2025-10-29 151823" src="https://github.com/user-attachments/assets/6c7292a2-459b-437b-982b-97b3c9824d33" />
 
 6. Configure the pins as **GPIO (Input/Output)**, **USART**, etc. as needed.
   
-<img width="450" height="450" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/0e56508e-1932-4d58-8565-4e74f089532e" />
+<img width="450" height="450" alt="Screenshot 2025-10-29 153113" src="https://github.com/user-attachments/assets/525daf83-c262-42f0-9194-4409ae766d13" />
 
 7. Save the configuration (`Ctrl + S`) – the base C program will be generated automatically.
-  <img width="450" height="450" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/10938b80-6ccd-4ced-af81-d2b9da927d2a" />
+<img width="450" height="450" alt="Screenshot 2025-10-29 153113" src="https://github.com/user-attachments/assets/525daf83-c262-42f0-9194-4409ae766d13" />
 
 8. Edit the generated main program as required.
-  <img width="450" height="450" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/7e3aab4e-69ae-4850-8b50-a7c35946b8e9" />
-<img width="450" height="450" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/bbae9846-1cd4-4bed-b419-a7fc3f03a7a3" />
-
+<img width="450" height="450" alt="Screenshot 2025-10-29 153257" src="https://github.com/user-attachments/assets/c0d42bef-5078-43ab-808e-845c6a3a0828" />
+<img width="450" height="450" alt="Screenshot 2025-10-29 160113" src="https://github.com/user-attachments/assets/c65c8a69-1f48-409c-9291-66d2bd23e773" />
 
 9. Click **Project → Build All**.
 
-<img width="450" height="450" alt="Screenshot (66)" src="https://github.com/user-attachments/assets/bf7a4d31-33dd-4dad-b890-57ea48368016" />
+<img width="450" height="450" alt="Screenshot 2025-10-29 160113" src="https://github.com/user-attachments/assets/c65c8a69-1f48-409c-9291-66d2bd23e773" />
 
-11. Link the **HEX file** using the post-build process.
-   <img width="450" height="450" alt="Screenshot (67)" src="https://github.com/user-attachments/assets/cfdf0c5a-400d-4b13-852f-0e410825b571" />
+10. Link the **HEX file** using the post-build process.
+<img width="450" height="450" alt="Screenshot 2025-10-29 160133" src="https://github.com/user-attachments/assets/a920d478-8556-4793-9c01-c4082fe98986" />
 
-12. Click **Debug** and connect the **STM Nucleo Board**.
+11. Click **Debug** and connect the **STM Nucleo Board**.
    <img width="450" height="450" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/2a9b6e93-c3ec-48ea-9da6-76fde75ef173" />
 
-13. Click **Run** to execute the program.
+12. Click **Run** to execute the program.
     
 ---
 
